@@ -1,0 +1,27 @@
+/* ==========================================================================
+   Reset CSS
+   ========================================================================== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/* ==========================================================================
+   VARIÁVEIS GLOBAIS (design tokens)
+   Recanto Sagrado Coração de Jesus
+   ========================================================================== */
+
+:root {
+  /* ---------- CORES: paleta base ---------- */
+  --color-navy:        #1f2a44;  /* azul-marinho: textos, hero, rodapé */
+  --color-gold:        #c9a227;  /* dourado: botões, ícones, destaques */
+  --color-cream:       #faf8f5;  /* creme: fundo da página, navbar, cards */
+  --color-sage:        #8fa68e;  /* verde-sálvia: seção "Como atuamos", citação */
+  --color-sage-light:  #e7eee4;  /* verde bem claro: seção "Como ajudar" */
+  --color-stone:       #d9d9d1;  /* cinza-areia: borda dos cards */
+  --color-white:       #ffffff;
+}
+
+body { 
+  
+}
