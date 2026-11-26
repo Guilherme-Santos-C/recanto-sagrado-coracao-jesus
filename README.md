@@ -14,5 +14,3 @@ recanto-sagrado/
     ├── icons/           ← SVGs (símbolo do Sagrado Coração, ícones dos cards)
     └── fonts/           ← fontes locais, se houver
 ```
-# recanto-sagrado-coracao-jesus
-# recanto-sagrado-coracao-jesus
